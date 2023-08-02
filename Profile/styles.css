@@ -1,0 +1,44 @@
+.body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 100%;
+    margin: 0px;
+}
+
+.header {
+    background-color: chocolate;
+    margin: 0px;
+    padding: 0px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.navLink {
+    list-style-type: none;
+    margin: 10px;
+}
+
+.nav-path {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+.Home {
+    background-color: blueviolet;
+}
+
+.homeleft {
+    background-color: blue;
+}
+.homeright {
+    background-color: brown;
+}

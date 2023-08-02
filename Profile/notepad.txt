@@ -1,0 +1,15 @@
+Photo 
+name
+mobile no
+gith hub profile
+linkend profile
+designation
+Skills
+summary
+education 
+experaricance 
+email
+address 
+language
+project
+blogs
