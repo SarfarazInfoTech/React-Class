@@ -9,7 +9,7 @@
 }
 
 .header {
-    background-color: chocolate;
+    background-color: #161F6D;
     margin: 0px;
     padding: 0px;
 }
@@ -32,13 +32,134 @@
     font-size: 18px;
     font-weight: 500;
 }
+
 .Home {
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
+    margin-top: 30px;
+}
+
+.text {
+    text-transform: lowercase;
 }
 
 .homeleft {
-    background-color: blue;
+    width: 60%;
+    padding: 10px;
+    margin: 10px;
+    border-color: white;
+    /* border-width: 1px; */
+    /* border-style: solid; */
+    background-color: #00ABE1;
+    box-shadow: 4px 4px #161F6D;
+    ;
 }
+
+.aboutTitle {
+    color: white !important;
+}
+
 .homeright {
-    background-color: brown;
+    width: 40%;
+    margin: auto;
+    align-self: center;
+    display: flex;
+}
+
+.profilepic {
+    margin: auto;
+    border-radius: 100%;
+}
+
+.heading {
+    text-align: center;
+    text-transform: uppercase;
+    font-style: oblique;
+    color: #161F6D;
+}
+
+.card {
+    border-radius: 10px;
+    border-color: #00ABE1;
+    border-style: solid;
+    width: 250px;
+    height: 40%;
+    box-shadow: 6px 4px #e3f1ff;
+}
+
+.title {
+    text-align: center;
+    color: #00ABE1;
+    font-size: 20px;
+}
+
+.blogImg {
+    width: 100%;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.BlogDis {
+    padding: 10px;
+}
+
+.skillImg {
+    border-radius: 5%;
+    margin: auto !important;
+    background-color: white;
+
+}
+
+.skillText {
+    font-size: 24px;
+    color: white;
+    font-weight: 500;
+    text-transform: capitalize;
+    /* text-align: left; */
+}
+
+.skillDiv {
+    background-color: #00ABE1;
+    justify-content: flex-start !important;
+    margin: auto;
+}
+
+.skillImgDiv {
+    /* background-color: yellow; */
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.skillTextDiv {
+
+    padding-left: 10px;
+}
+
+.Experiance {
+    width: 100%;
+    margin: auto;
+}
+
+.Education {
+    width: 100%;
+    margin: auto;
+}
+
+.expBox {
+    border-radius: 10px;
+    border-color: blue;
+    border-style: solid;
+    width: 90%;
+    /* height: 30%; */
+    margin: auto;
+    padding: 10px
+}
+
+.eduBox {
+    width: 70%;
+    border-radius: 10px;
+    border-color: blue;
+    border-style: solid;
+    margin: auto;
+    padding: 10px;
+
 }
