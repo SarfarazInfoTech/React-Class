@@ -145,9 +145,6 @@
 }
 
 .expBox {
-    border-radius: 10px;
-    border-color: blue;
-    border-style: solid;
     width: 90%;
     /* height: 30%; */
     margin: auto;
@@ -156,10 +153,34 @@
 
 .eduBox {
     width: 70%;
-    border-radius: 10px;
-    border-color: blue;
-    border-style: solid;
     margin: auto;
     padding: 10px;
 
+}
+.expTitle {
+    color: #00ABE1;
+    padding: 0px !important;
+    margin:0px !important ;
+}
+.expCompany {
+    color: #161F6D;
+    padding: 0px !important;
+    margin:0px !important ;
+}
+.expDate {
+    font-size: 13px;
+    color: black;
+}
+.expDec {
+    font-size: 14px;
+}
+.eduTitle {
+    color: #161F6D;
+}
+.eduName {
+    color: #161F6D;
+}
+.eduDate {
+    font-size: 13px;
+    color: black;
 }
